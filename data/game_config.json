@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0.0",
+  "title": "四级单词手账",
+  "subtitle": "每天贴好一页单词，四级词汇慢慢集齐。",
+  "platform": "mobile-first-web",
+  "wordBankFile": "cet4_words.json",
+  "wordCount": 3739,
+  "dayCount": 25,
+  "wordsPerPage": 10,
+  "newPageCount": 374,
+  "finalPageSize": 9,
+  "reviewEveryNewPages": 3,
+  "reviewPageCount": 124,
+  "chapterTestCount": 25,
+  "totalPlayableUnits": 523,
+  "newPageQuestionCount": 14,
+  "reviewPageQuestionCount": 16,
+  "chapterTestQuestionCount": 20,
+  "targetWordsRequiredPerNewPage": true,
+  "previousPageReviewQuestions": 2,
+  "adaptiveReviewQuestions": 2,
+  "wrongWordRevisitGapMin": 2,
+  "wrongWordRevisitGapMax": 3,
+  "defaultDailyNewPages": 1,
+  "maximumDailyNewPages": 2,
+  "leaveWrongWordPoolAfterCorrectSessions": 2,
+  "masteredAfterCorrectSessions": 5,
+  "masteredRequiresSpelling": true,
+  "masteredSpellingAppliesToWordsLongerThan": 2,
+  "hintsPerPage": 1,
+  "pointsPerCorrectAnswer": 100,
+  "comboStartsAt": 3,
+  "comboBonusPerCorrectAnswer": 20,
+  "comboBonusCap": 200,
+  "stars": {
+    "complete": 1,
+    "twoStarAccuracy": 0.7,
+    "threeStarAccuracy": 0.9
+  },
+  "ordinaryModeTimerEnabled": false,
+  "challengeModeTimerEnabled": false,
+  "practiceQuestionTypes": [
+    "word-to-meaning",
+    "meaning-to-word",
+    "phonetic-to-word",
+    "letter-fill",
+    "letter-tiles"
+  ],
+  "dataDependentQuestionTypes": [
+    "context-cloze",
+    "collocation"
+  ],
+  "dataDependentQuestionTypesEnabled": false,
+  "dataDependentQuestionTypesReason": "The source word list does not contain verified example sentences.",
+  "storageKey": "cet4-handbook-progress-v1",
+  "settingsKey": "cet4-handbook-settings-v1",
+  "supportedBrowsers": [
+    "latest Chrome",
+    "latest Edge",
+    "latest Safari",
+    "latest Firefox"
+  ]
+}
