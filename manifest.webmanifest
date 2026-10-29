@@ -1,0 +1,44 @@
+{
+  "name": "单词手账 · 三级四级六级",
+  "short_name": "单词手账",
+  "description": "每天贴好一页单词，三级/四级/六级词汇慢慢集齐。艾宾浩斯复习 + 拼写练习。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#f7f1e3",
+  "theme_color": "#243447",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "今日手账",
+      "url": "./#/home"
+    },
+    {
+      "name": "错词本",
+      "url": "./#/wrong"
+    }
+  ]
+}

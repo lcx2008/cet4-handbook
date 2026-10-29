@@ -1,0 +1,516 @@
+{
+  "schemaVersion": "1.0.0",
+  "note": "每日一诵：内置短文，按日期轮换。英文原文为学习材料，中文为参考译文。",
+  "passages": [
+    {
+      "id": "habits",
+      "title": "The Power of Small Habits",
+      "topic": "习惯",
+      "sentences": [
+        { "en": "Most people try to change their lives in one big step.", "zh": "大多数人想用一大步改变自己的生活。" },
+        { "en": "They decide to run ten kilometers or read a whole book in a week.", "zh": "他们决定一周跑十公里，或者读完一整本书。" },
+        { "en": "A few days later, the plan is too heavy, and they stop.", "zh": "几天之后，计划太重，他们就停了。" },
+        { "en": "Small habits work better because they are easy to repeat.", "zh": "小习惯更有效，因为它们容易重复。" },
+        { "en": "Ten minutes of reading every night can become a lifetime of learning.", "zh": "每晚读十分钟，可能变成一辈子的学习。" },
+        { "en": "The secret is not a big start, but a small step you can keep.", "zh": "秘诀不在于宏大的开始，而在于你能坚持的一小步。" }
+      ],
+      "keywords": [
+        { "word": "habit", "meaning": "n. 习惯" },
+        { "word": "repeat", "meaning": "v. 重复" },
+        { "word": "lifetime", "meaning": "n. 一生" }
+      ]
+    },
+    {
+      "id": "sleep",
+      "title": "Why Sleep Helps You Remember",
+      "topic": "健康",
+      "sentences": [
+        { "en": "Students often study late into the night before an exam.", "zh": "考试前，学生们常常学到深夜。" },
+        { "en": "They believe that more hours mean more knowledge.", "zh": "他们相信时间越多，知识就越多。" },
+        { "en": "But the brain needs sleep to store what we learn during the day.", "zh": "但大脑需要睡眠来储存白天学到的东西。" },
+        { "en": "During deep sleep, the brain sorts new information and connects it with old memories.", "zh": "在深度睡眠中，大脑整理新信息，并把它和旧记忆连接起来。" },
+        { "en": "So a good night's sleep may help you more than one more hour of reading.", "zh": "所以，睡个好觉可能比多读一小时更有帮助。" },
+        { "en": "Rest is part of learning, not a waste of time.", "zh": "休息是学习的一部分，而不是浪费时间。" }
+      ],
+      "keywords": [
+        { "word": "memory", "meaning": "n. 记忆" },
+        { "word": "store", "meaning": "v. 储存" },
+        { "word": "waste", "meaning": "v. 浪费" }
+      ]
+    },
+    {
+      "id": "reading",
+      "title": "Reading in a Busy World",
+      "topic": "阅读",
+      "sentences": [
+        { "en": "Many of us say we are too busy to read.", "zh": "我们很多人说自己太忙，没时间读书。" },
+        { "en": "Yet we often spend an hour a day looking at short videos.", "zh": "然而我们常常每天花一小时刷短视频。" },
+        { "en": "Reading a book is slower, and that is exactly why it is useful.", "zh": "读书更慢，而这恰恰是它有用的原因。" },
+        { "en": "A long story teaches us to follow an idea and to feel with other people.", "zh": "一个长故事教会我们追随一个想法，并与人共情。" },
+        { "en": "Try carrying a small book and reading two pages while you wait.", "zh": "试着带一本小书，等待时读两页。" },
+        { "en": "Those two pages can quietly change a busy day.", "zh": "这两页可能悄悄地改变忙碌的一天。" }
+      ],
+      "keywords": [
+        { "word": "busy", "meaning": "adj. 忙碌的" },
+        { "word": "follow", "meaning": "v. 跟随；理解" },
+        { "word": "quietly", "meaning": "adv. 安静地；悄悄地" }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "Living with Smart Machines",
+      "topic": "科技",
+      "sentences": [
+        { "en": "Artificial intelligence is no longer only a topic in science fiction.", "zh": "人工智能不再只是科幻小说里的主题。" },
+        { "en": "It helps doctors read pictures and helps students practice languages.", "zh": "它帮助医生读片，也帮助学生练习语言。" },
+        { "en": "The tool itself is neither good nor bad; the use decides the result.", "zh": "工具本身无所谓好坏，怎么用才决定结果。" },
+        { "en": "A useful habit is to ask who made the answer and what evidence supports it.", "zh": "一个有用的习惯是问：这个答案是谁给的？有什么证据支持它？" },
+        { "en": "Machines can save us time, but we still have to think for ourselves.", "zh": "机器能为我们省时间，但我们仍然要自己思考。" },
+        { "en": "The future belongs to people who can ask better questions.", "zh": "未来属于那些能提出更好问题的人。" }
+      ],
+      "keywords": [
+        { "word": "artificial", "meaning": "adj. 人造的" },
+        { "word": "evidence", "meaning": "n. 证据" },
+        { "word": "belong", "meaning": "v. 属于" }
+      ]
+    },
+    {
+      "id": "trees",
+      "title": "The Trees in Our Cities",
+      "topic": "环境",
+      "sentences": [
+        { "en": "A city street without trees can be ten degrees hotter in summer.", "zh": "夏天，没有树的城市街道可能热上十度。" },
+        { "en": "Trees give shade, clean the air, and make people feel calmer.", "zh": "树木提供树荫、净化空气，也让人感到更平静。" },
+        { "en": "Some neighborhoods, however, have far fewer trees than others.", "zh": "然而，有些社区拥有的树远少于其他社区。" },
+        { "en": "This difference is not only about beauty; it is about health.", "zh": "这种差别不仅关乎美观，更关乎健康。" },
+        { "en": "Planting a tree is a gift to people you will never meet.", "zh": "种一棵树，是送给素未谋面之人的礼物。" },
+        { "en": "Good cities are built for the next generation, not only for today.", "zh": "好的城市是为下一代建造的，而不只是为了今天。" }
+      ],
+      "keywords": [
+        { "word": "shade", "meaning": "n. 阴凉处" },
+        { "word": "neighborhood", "meaning": "n. 社区；街区" },
+        { "word": "generation", "meaning": "n. 一代人" }
+      ]
+    },
+    {
+      "id": "language",
+      "title": "How to Learn a Language",
+      "topic": "学习",
+      "sentences": [
+        { "en": "Many people study grammar for years and still cannot speak.", "zh": "许多人学了好几年语法，却仍然开不了口。" },
+        { "en": "The problem is that they never use the language to say anything real.", "zh": "问题在于，他们从不用这门语言说任何真实的话。" },
+        { "en": "A better way is to read and listen a little every day, then repeat what you hear.", "zh": "更好的办法是每天读一点、听一点，然后重复你听到的内容。" },
+        { "en": "Mistakes are not a sign of failure; they are part of the process.", "zh": "犯错不是失败的标志，而是过程的一部分。" },
+        { "en": "If you can explain your breakfast in English, you are already learning.", "zh": "如果你能用英语讲清自己的早餐，你已经在学了。" },
+        { "en": "Languages are built by using them, not by memorizing rules.", "zh": "语言是靠使用建立起来的，而不是靠背规则。" }
+      ],
+      "keywords": [
+        { "word": "grammar", "meaning": "n. 语法" },
+        { "word": "process", "meaning": "n. 过程" },
+        { "word": "memorize", "meaning": "v. 记忆；背诵" }
+      ]
+    },
+    {
+      "id": "coffee",
+      "title": "A Cup of Coffee and a Pause",
+      "topic": "文化",
+      "sentences": [
+        { "en": "For millions of people, the day does not begin until the first cup of coffee.", "zh": "对数百万人来说，喝下第一杯咖啡，一天才算开始。" },
+        { "en": "Coffee shops have become places to meet, work, and think.", "zh": "咖啡馆成了见面、工作和思考的地方。" },
+        { "en": "Some studies suggest that a little coffee may be good for the heart.", "zh": "一些研究表明，少量咖啡可能对心脏有好处。" },
+        { "en": "But too much coffee can make it hard to sleep at night.", "zh": "但喝太多咖啡会让人夜里难以入睡。" },
+        { "en": "Perhaps the real value of coffee is the pause it creates in a busy day.", "zh": "也许咖啡真正的价值，是它在忙碌的一天里创造出的停顿。" },
+        { "en": "A short pause can help us see what really matters.", "zh": "短暂的停顿能帮我们看清什么才重要。" }
+      ],
+      "keywords": [
+        { "word": "pause", "meaning": "n. 停顿" },
+        { "word": "suggest", "meaning": "v. 表明；建议" },
+        { "word": "matter", "meaning": "v. 要紧" }
+      ]
+    },
+    {
+      "id": "exercise",
+      "title": "Moving Your Body, Changing Your Mood",
+      "topic": "健康",
+      "sentences": [
+        { "en": "When we feel tired, we usually sit down and rest.", "zh": "觉得累的时候，我们通常会坐下休息。" },
+        { "en": "But sometimes the best rest is a slow walk outside.", "zh": "但有时最好的休息，是在户外慢慢走一走。" },
+        { "en": "Exercise sends more blood to the brain and reduces stress.", "zh": "运动让更多血液流向大脑，并减轻压力。" },
+        { "en": "You do not need a gym; stairs, streets, and parks are enough.", "zh": "你不需要健身房；楼梯、街道和公园就够了。" },
+        { "en": "Twenty minutes of movement can change the rest of your day.", "zh": "二十分钟的活动，能改变你这一天的后半段。" },
+        { "en": "The body and the mind are not two separate things.", "zh": "身体和头脑并不是两件分开的事。" }
+      ],
+      "keywords": [
+        { "word": "stress", "meaning": "n. 压力" },
+        { "word": "reduce", "meaning": "v. 减少" },
+        { "word": "separate", "meaning": "adj. 分开的" }
+      ]
+    },
+    {
+      "id": "fashion",
+      "title": "The True Price of Fast Fashion",
+      "topic": "消费",
+      "sentences": [
+        { "en": "A T-shirt that costs less than a coffee seems like a bargain.", "zh": "一件比咖啡还便宜的 T 恤，看起来像是捡了便宜。" },
+        { "en": "But someone has to grow the cotton, cut the cloth, and sew it.", "zh": "但总得有人种棉花、裁布料、把它缝起来。" },
+        { "en": "When prices are very low, the cost often falls on the environment or on workers.", "zh": "价格极低时，代价往往落在环境或工人身上。" },
+        { "en": "Buying fewer clothes and wearing them longer is one simple answer.", "zh": "少买衣服、多穿几年，就是一个简单的答案。" },
+        { "en": "We do not need to be perfect; we only need to ask one more question before we buy.", "zh": "我们不必做到完美，只需在买之前多问一个问题。" },
+        { "en": "Cheap can be expensive in ways we do not see.", "zh": "便宜，可能以我们看不见的方式变得昂贵。" }
+      ],
+      "keywords": [
+        { "word": "bargain", "meaning": "n. 便宜货" },
+        { "word": "environment", "meaning": "n. 环境" },
+        { "word": "expensive", "meaning": "adj. 昂贵的" }
+      ]
+    },
+    {
+      "id": "space",
+      "title": "Looking Far into the Past",
+      "topic": "科学",
+      "sentences": [
+        { "en": "When you look at the stars, you are looking back in time.", "zh": "当你仰望星空时，你看到的是过去的时光。" },
+        { "en": "Light from the nearest star takes more than four years to reach us.", "zh": "最近一颗恒星的光，要四年多才能到达我们这里。" },
+        { "en": "Powerful telescopes can see light that left its source billions of years ago.", "zh": "强大的望远镜能看到数十亿年前离开源头的光。" },
+        { "en": "In this way, astronomers study the childhood of the universe.", "zh": "天文学家就这样研究宇宙的童年。" },
+        { "en": "Every new picture brings more questions than answers.", "zh": "每一张新照片带来的问题，都比答案多。" },
+        { "en": "Science is a long conversation with the unknown.", "zh": "科学是一场与未知的漫长对话。" }
+      ],
+      "keywords": [
+        { "word": "telescope", "meaning": "n. 望远镜" },
+        { "word": "astronomer", "meaning": "n. 天文学家" },
+        { "word": "unknown", "meaning": "n. 未知" }
+      ]
+    },
+    {
+      "id": "friendship",
+      "title": "Making Friends as an Adult",
+      "topic": "社会",
+      "sentences": [
+        { "en": "As children, we make friends simply by playing together.", "zh": "小时候，我们一起玩就交上了朋友。" },
+        { "en": "As adults, we often wait for friendship to happen by itself.", "zh": "成年后，我们常常等着友谊自己发生。" },
+        { "en": "But friendship needs repeated small moments: a walk, a message, a shared meal.", "zh": "但友谊需要一次次微小的时刻：一次散步、一条消息、一顿一起吃的饭。" },
+        { "en": "It is easy to be busy and hard to be present.", "zh": "忙碌很容易，陪伴却很难。" },
+        { "en": "Call one person you have not spoken to for a while.", "zh": "给一位很久没联系的人打个电话。" },
+        { "en": "Most people are happy to hear from someone who remembers them.", "zh": "大多数人接到记得自己的人的问候，都会很开心。" }
+      ],
+      "keywords": [
+        { "word": "adult", "meaning": "n. 成年人" },
+        { "word": "repeated", "meaning": "adj. 反复的" },
+        { "word": "present", "meaning": "adj. 在场的；专注的" }
+      ]
+    },
+    {
+      "id": "money",
+      "title": "Saving a Little Every Month",
+      "topic": "理财",
+      "sentences": [
+        { "en": "Saving money feels impossible when the month is short and the bills are many.", "zh": "月底钱紧、账单又多的时候，存钱显得不可能。" },
+        { "en": "Yet many people save by moving a small amount on payday, before they spend anything.", "zh": "但很多人会在发薪日先转出一小笔，再开始花钱。" },
+        { "en": "The amount matters less than the habit.", "zh": "金额没有习惯本身重要。" },
+        { "en": "A small emergency fund can turn a disaster into a bad day.", "zh": "一笔小小的应急金，能把一场灾难变成一个倒霉的日子。" },
+        { "en": "Money is a tool for freedom, not a score to show others.", "zh": "钱是通向自由的工具，不是给别人看的分数。" },
+        { "en": "Start with what you can, and let time do the rest.", "zh": "从你能做到的开始，剩下的交给时间。" }
+      ],
+      "keywords": [
+        { "word": "amount", "meaning": "n. 金额" },
+        { "word": "emergency", "meaning": "n. 紧急情况" },
+        { "word": "freedom", "meaning": "n. 自由" }
+      ]
+    },
+    {
+      "id": "time",
+      "title": "The Two-Minute Rule",
+      "topic": "效率",
+      "sentences": [
+        { "en": "Most of us put off small tasks until they become big ones.", "zh": "我们大多数人都把小任务拖成大任务。" },
+        { "en": "A reply, a form, a phone call: each takes only a few minutes.", "zh": "回一条消息、填一张表、打一个电话，每件只要几分钟。" },
+        { "en": "The two-minute rule says that if a task takes less than two minutes, do it now.", "zh": "「两分钟法则」是说：一件事不到两分钟就能做完，就立刻做。" },
+        { "en": "The point is not speed, but emptying your mind of small worries.", "zh": "重点不是速度，而是把心里那些小牵挂清空。" },
+        { "en": "A clear mind has room for work that actually matters.", "zh": "心里清爽了，才有地方放真正重要的事。" }
+      ],
+      "keywords": [
+        { "word": "put off", "meaning": "拖延" },
+        { "word": "task", "meaning": "n. 任务" },
+        { "word": "actually", "meaning": "adv. 实际上" }
+      ]
+    },
+    {
+      "id": "travel",
+      "title": "Getting Lost on Purpose",
+      "topic": "旅行",
+      "sentences": [
+        { "en": "Maps tell us the fastest way, but not always the most interesting one.", "zh": "地图告诉我们最快的路，却不一定是最有意思的路。" },
+        { "en": "In a new city, try walking without a destination for half an hour.", "zh": "在一座陌生的城市，试着不带目的地走上半小时。" },
+        { "en": "You may find a small bookshop, a quiet square, or a cook who tells you what to eat.", "zh": "你可能会遇到一家小书店、一个安静的广场，或者一位告诉你该吃什么的厨师。" },
+        { "en": "Getting lost is a way of paying attention.", "zh": "迷路，是一种专注的方式。" },
+        { "en": "The best memories are usually the ones we did not plan.", "zh": "最好的回忆，往往是我们没计划过的那些。" }
+      ],
+      "keywords": [
+        { "word": "destination", "meaning": "n. 目的地" },
+        { "word": "square", "meaning": "n. 广场" },
+        { "word": "attention", "meaning": "n. 注意力" }
+      ]
+    },
+    {
+      "id": "music",
+      "title": "Why Songs Get Stuck in Your Head",
+      "topic": "音乐",
+      "sentences": [
+        { "en": "Almost everyone has had a song repeat in their head for hours.", "zh": "几乎每个人都经历过一首歌在脑子里循环好几个小时。" },
+        { "en": "Scientists call this an earworm, and it is surprisingly common.", "zh": "科学家管这叫「耳虫」，而且它出奇地常见。" },
+        { "en": "Short, simple melodies with a little surprise are the most likely to stick.", "zh": "短小、简单、又带一点意外的旋律，最容易粘住。" },
+        { "en": "The mind repeats what it cannot quite finish.", "zh": "大脑会重复那些它没能完全结束的东西。" },
+        { "en": "So if a song will not leave, try singing it all the way to the end.", "zh": "所以如果一首歌赶不走，试着把它从头到尾完整唱一遍。" }
+      ],
+      "keywords": [
+        { "word": "repeat", "meaning": "v. 重复" },
+        { "word": "melody", "meaning": "n. 旋律" },
+        { "word": "stick", "meaning": "v. 粘住；留下" }
+      ]
+    },
+    {
+      "id": "team",
+      "title": "The Best Teams Argue Well",
+      "topic": "协作",
+      "sentences": [
+        { "en": "A team without disagreement is often a team that is not thinking.", "zh": "一个没有分歧的团队，往往是一个没在思考的团队。" },
+        { "en": "The question is not whether people disagree, but how they do it.", "zh": "问题不在于大家有没有不同意见，而在于怎么表达。" },
+        { "en": "Good teams attack the problem, not the person who raised it.", "zh": "好的团队攻击问题本身，而不是提出问题的人。" },
+        { "en": "They ask questions before they defend their own idea.", "zh": "他们会先提问，再为自己的想法辩护。" },
+        { "en": "Trust grows when people feel safe enough to say \"I might be wrong\".", "zh": "当人敢说「我可能错了」，信任才会长出来。" }
+      ],
+      "keywords": [
+        { "word": "disagreement", "meaning": "n. 分歧" },
+        { "word": "defend", "meaning": "v. 辩护；防御" },
+        { "word": "trust", "meaning": "n. 信任" }
+      ]
+    },
+    {
+      "id": "climate",
+      "title": "The Weather Is Getting Stranger",
+      "topic": "气候",
+      "sentences": [
+        { "en": "This summer, some places had floods while others had no rain for weeks.", "zh": "今年夏天，有些地方发洪水，另一些地方几周没下雨。" },
+        { "en": "A warmer atmosphere holds more water, so rain falls harder when it comes.", "zh": "更暖的大气能容纳更多水汽，所以一下雨就更猛。" },
+        { "en": "Scientists are careful: no single storm proves the climate is changing.", "zh": "科学家很谨慎：单独一场风暴不能证明气候在变。" },
+        { "en": "But the pattern over many years is clear.", "zh": "但许多年累积下来的趋势是清楚的。" },
+        { "en": "What we do this decade will decide what the next one feels like.", "zh": "这十年我们怎么做，会决定下个十年是什么样子。" }
+      ],
+      "keywords": [
+        { "word": "flood", "meaning": "n. 洪水" },
+        { "word": "atmosphere", "meaning": "n. 大气" },
+        { "word": "pattern", "meaning": "n. 模式；规律" }
+      ]
+    },
+    {
+      "id": "writing",
+      "title": "Writing to Think",
+      "topic": "写作",
+      "sentences": [
+        { "en": "Many people say they write only when they already know what to say.", "zh": "很多人说，他们只在已经想清楚的时候才写。" },
+        { "en": "In fact, writing is how you find out what you think.", "zh": "事实上，写作正是你发现自己想法的过程。" },
+        { "en": "A sentence on paper can show you a hole in your argument.", "zh": "纸面上的一句话，能让你看见论证里的漏洞。" },
+        { "en": "You do not need to be a writer to do this; a notebook is enough.", "zh": "你不需要成为作家才能这么做，一个本子就够了。" },
+        { "en": "Write for ten minutes without stopping, and read it back tomorrow.", "zh": "不停笔地写十分钟，明天再读一遍。" }
+      ],
+      "keywords": [
+        { "word": "argument", "meaning": "n. 论证；论点" },
+        { "word": "notebook", "meaning": "n. 笔记本" },
+        { "word": "in fact", "meaning": "事实上" }
+      ]
+    },
+    {
+      "id": "library",
+      "title": "The Library as a Quiet Room",
+      "topic": "阅读",
+      "sentences": [
+        { "en": "A library is one of the few places where silence is a shared rule.", "zh": "图书馆是少数几个把安静当成共同规则的地方。" },
+        { "en": "No one asks you to buy anything or to hurry.", "zh": "没有人要求你买什么，也没有人催你。" },
+        { "en": "You can sit with a book for an hour and simply think.", "zh": "你可以拿着一本书坐一小时，只是想一想。" },
+        { "en": "In a noisy world, a quiet room is a kind of luxury.", "zh": "在嘈杂的世界里，一间安静的屋子是一种奢侈。" }
+      ],
+      "keywords": [
+        { "word": "silence", "meaning": "n. 安静" },
+        { "word": "hurry", "meaning": "v. 催促；匆忙" },
+        { "word": "luxury", "meaning": "n. 奢侈" }
+      ]
+    },
+    {
+      "id": "focus",
+      "title": "One Thing at a Time",
+      "topic": "专注",
+      "sentences": [
+        { "en": "We often keep five windows open and finish none of them.", "zh": "我们常常同时开着五个窗口，却一个也没做完。" },
+        { "en": "Switching between tasks costs time and attention.", "zh": "在任务之间切换，是要花时间和注意力的。" },
+        { "en": "Try working on one thing for twenty-five minutes, then rest.", "zh": "试着只做一件事二十五分钟，然后休息。" },
+        { "en": "Doing less at once often means finishing more by evening.", "zh": "一次少做一点，到晚上反而完成得更多。" }
+      ],
+      "keywords": [
+        { "word": "switch", "meaning": "v. 切换" },
+        { "word": "attention", "meaning": "n. 注意力" },
+        { "word": "finish", "meaning": "v. 完成" }
+      ]
+    },
+    {
+      "id": "failure",
+      "title": "Learning from a Bad Grade",
+      "topic": "成长",
+      "sentences": [
+        { "en": "A bad grade feels like a door closing.", "zh": "一个糟糕的分数，感觉像一扇门关上了。" },
+        { "en": "But a grade only describes one exam on one day.", "zh": "但分数只描述某一天的一场考试。" },
+        { "en": "The useful question is not why I am bad at this, but what exactly went wrong.", "zh": "有用的问题不是「我为什么这么差」，而是「到底哪里出了问题」。" },
+        { "en": "Failure is information, if you are willing to read it.", "zh": "失败是信息，只要你愿意去读它。" }
+      ],
+      "keywords": [
+        { "word": "grade", "meaning": "n. 分数；年级" },
+        { "word": "describe", "meaning": "v. 描述" },
+        { "word": "willing", "meaning": "adj. 愿意的" }
+      ]
+    },
+    {
+      "id": "volunteer",
+      "title": "An Hour That Matters",
+      "topic": "公益",
+      "sentences": [
+        { "en": "Many people want to help but think they have no time.", "zh": "很多人想帮忙，却觉得自己没有时间。" },
+        { "en": "One hour a week is enough to make a real difference to someone.", "zh": "每周一小时，就足以真正改变某个人的处境。" },
+        { "en": "You do not need special skills to listen or to show up.", "zh": "倾听和出现，不需要什么特别的技能。" },
+        { "en": "Helping also changes the person who helps.", "zh": "帮助别人，也会改变帮助者自己。" }
+      ],
+      "keywords": [
+        { "word": "volunteer", "meaning": "n. 志愿者" },
+        { "word": "difference", "meaning": "n. 差别；影响" },
+        { "word": "skill", "meaning": "n. 技能" }
+      ]
+    },
+    {
+      "id": "meal",
+      "title": "Why We Eat Together",
+      "topic": "生活",
+      "sentences": [
+        { "en": "Eating alone is quick; eating together is slower and louder.", "zh": "一个人吃饭很快；一起吃饭更慢，也更热闹。" },
+        { "en": "A shared meal gives people a reason to sit down and talk.", "zh": "一起吃饭，给了人们坐下来聊天的理由。" },
+        { "en": "The food matters less than the time spent at the table.", "zh": "吃什么，不如围坐在一起的时间重要。" },
+        { "en": "Some of the best conversations happen between two bites.", "zh": "最好的对话，常常发生在两口饭之间。" }
+      ],
+      "keywords": [
+        { "word": "alone", "meaning": "adv. 独自" },
+        { "word": "shared", "meaning": "adj. 共享的" },
+        { "word": "conversation", "meaning": "n. 对话" }
+      ]
+    },
+    {
+      "id": "nightcity",
+      "title": "The City at Night",
+      "topic": "城市",
+      "sentences": [
+        { "en": "At night a city shows a different face.", "zh": "夜晚的城市，会露出另一张脸。" },
+        { "en": "Shops close, buses empty, and the streets belong to walkers.", "zh": "店铺关门，公交空下来，街道属于散步的人。" },
+        { "en": "Some people are just starting their work as others go home.", "zh": "有人刚下班回家，也有人刚开始工作。" },
+        { "en": "Walking at night can make a familiar place feel new.", "zh": "夜里散步，能让熟悉的地方变得新鲜。" }
+      ],
+      "keywords": [
+        { "word": "familiar", "meaning": "adj. 熟悉的" },
+        { "word": "belong", "meaning": "v. 属于" },
+        { "word": "empty", "meaning": "adj. 空的" }
+      ]
+    },
+    {
+      "id": "running",
+      "title": "The Slow Runner",
+      "topic": "运动",
+      "sentences": [
+        { "en": "The fastest runner is not always the one who keeps going.", "zh": "跑得最快的人，不一定是最能坚持的人。" },
+        { "en": "A slow pace can last for years; a fast start often lasts a week.", "zh": "慢一点能坚持好几年；冲得太快往往只坚持一周。" },
+        { "en": "Compare yourself with yesterday, not with the person ahead.", "zh": "和昨天的自己比，不要和前面那个人比。" },
+        { "en": "The body rewards patience more than it rewards speed.", "zh": "身体给耐心的回报，比给速度的多。" }
+      ],
+      "keywords": [
+        { "word": "pace", "meaning": "n. 速度；节奏" },
+        { "word": "compare", "meaning": "v. 比较" },
+        { "word": "patience", "meaning": "n. 耐心" }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Why We Cry at Movies",
+      "topic": "电影",
+      "sentences": [
+        { "en": "We know a film is not real, yet we still cry.", "zh": "我们知道电影不是真的，却还是会哭。" },
+        { "en": "A story gives our feelings a safe place to happen.", "zh": "故事给了情绪一个安全的出口。" },
+        { "en": "Music, faces, and a long silence do much of the work.", "zh": "音乐、表情和一段长长的沉默，起了大部分作用。" },
+        { "en": "Afterwards we often feel lighter, not sadder.", "zh": "看完之后，我们常常觉得轻松，而不是更难过。" }
+      ],
+      "keywords": [
+        { "word": "feeling", "meaning": "n. 情绪；感觉" },
+        { "word": "silence", "meaning": "n. 沉默" },
+        { "word": "afterwards", "meaning": "adv. 之后" }
+      ]
+    },
+    {
+      "id": "nophone",
+      "title": "A Day Without a Phone",
+      "topic": "科技",
+      "sentences": [
+        { "en": "Leaving your phone at home for a day feels strangely quiet.", "zh": "把手机留在家里一天，会有种奇怪的安静。" },
+        { "en": "At first you reach for it every few minutes.", "zh": "一开始，你每隔几分钟就想去摸它。" },
+        { "en": "Then you notice the sky, the queue, the person beside you.", "zh": "然后你注意到天空、队伍、身边的人。" },
+        { "en": "Boredom, it turns out, is where new ideas start.", "zh": "原来，无聊正是新想法开始的地方。" }
+      ],
+      "keywords": [
+        { "word": "strangely", "meaning": "adv. 奇怪地" },
+        { "word": "notice", "meaning": "v. 注意到" },
+        { "word": "boredom", "meaning": "n. 无聊" }
+      ]
+    },
+    {
+      "id": "winter",
+      "title": "The First Cold Morning",
+      "topic": "季节",
+      "sentences": [
+        { "en": "One morning the air is sharp and your breath is visible.", "zh": "某天早晨，空气变利了，呼出的气看得见。" },
+        { "en": "Summer ends without a meeting or a formal goodbye.", "zh": "夏天结束，没有会议，也没有正式的告别。" },
+        { "en": "People walk faster, hands in pockets.", "zh": "人们走得更快，手插在口袋里。" },
+        { "en": "Every season arrives quietly, then stays.", "zh": "每个季节都悄悄地来，然后留下。" }
+      ],
+      "keywords": [
+        { "word": "visible", "meaning": "adj. 看得见的" },
+        { "word": "pocket", "meaning": "n. 口袋" },
+        { "word": "season", "meaning": "n. 季节" }
+      ]
+    },
+    {
+      "id": "school",
+      "title": "What School Doesn't Teach",
+      "topic": "教育",
+      "sentences": [
+        { "en": "School teaches us to answer questions, but life asks us to find them.", "zh": "学校教我们回答问题，生活却要我们找问题。" },
+        { "en": "Few classes cover sleep, money, or how to say no.", "zh": "很少有课讲睡眠、金钱，或如何拒绝。" },
+        { "en": "These are skills we usually learn by making mistakes.", "zh": "这些技能，我们通常是在犯错里学会的。" },
+        { "en": "You can start learning them now, without waiting for a teacher.", "zh": "你可以现在就开始学，不必等一位老师。" }
+      ],
+      "keywords": [
+        { "word": "cover", "meaning": "v. 涵盖" },
+        { "word": "skill", "meaning": "n. 技能" },
+        { "word": "mistake", "meaning": "n. 错误" }
+      ]
+    },
+    {
+      "id": "dialect",
+      "title": "The Language at Home",
+      "topic": "语言",
+      "sentences": [
+        { "en": "At school we speak one language; at home we may speak another.", "zh": "在学校说一种语言，在家里可能说另一种。" },
+        { "en": "A dialect carries jokes, food names, and ways of being kind.", "zh": "方言里带着笑话、食物的名字，还有表达善意的方式。" },
+        { "en": "Some people are shy about their accent, as if it were a mistake.", "zh": "有人对自己的口音感到不好意思，好像那是个错误。" },
+        { "en": "It is not a mistake; it is a second home.", "zh": "那不是错误，那是第二个家。" }
+      ],
+      "keywords": [
+        { "word": "dialect", "meaning": "n. 方言" },
+        { "word": "accent", "meaning": "n. 口音" },
+        { "word": "shy", "meaning": "adj. 害羞的" }
+      ]
+    }
+  ]
+}

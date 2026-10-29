@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0.0",
+  "default": "cet4",
+  "levels": [
+    {
+      "id": "cet3",
+      "name": "三级",
+      "fullName": "大学英语三级 · 基础词汇",
+      "badge": "基础",
+      "wordCount": 3665,
+      "dayCount": 25,
+      "pageCount": 367,
+      "wordsFile": "cet3_words.json",
+      "note": "高中英语大纲词汇 3665 词，与三级（PRETCO A 级）3400 词大纲范围相当"
+    },
+    {
+      "id": "cet4",
+      "name": "四级",
+      "fullName": "大学英语四级 · 核心词汇",
+      "badge": "主推",
+      "wordCount": 3739,
+      "dayCount": 25,
+      "pageCount": 374,
+      "wordsFile": "cet4_words.json",
+      "note": "刘晓艳推荐四级词表，按页学习"
+    },
+    {
+      "id": "cet6",
+      "name": "六级",
+      "fullName": "大学英语六级 · 提高词汇",
+      "badge": "进阶",
+      "wordCount": 3475,
+      "dayCount": 24,
+      "pageCount": 348,
+      "wordsFile": "cet6_words.json",
+      "note": "六级英语词汇 + 新东方六级词汇（去重合并）"
+    }
+  ]
+}
