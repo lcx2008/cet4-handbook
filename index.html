@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <!-- 关键：在线发音的音频接口（百度翻译）带 Referer 会被判成盗链、返回 0 字节。
+         整页不发送 Referer，音频才拿得到。 -->
+    <meta name="referrer" content="no-referrer" />
+    <meta name="theme-color" content="#243447" />
+    <script>
+      /* 首屏就套上主题，避免先白后暗闪一下 */
+      try {
+        var s = JSON.parse(localStorage.getItem('cet4-handbook-settings-v2') || '{}');
+        document.documentElement.dataset.theme = s.theme || 'paper';
+      } catch (e) {
+        document.documentElement.dataset.theme = 'paper';
+      }
+    </script>
+    <meta name="description" content="单词手账——每天贴好一页单词，英语三级/四级/六级、韩语初/中/高级词汇慢慢集齐。" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png" />
+    <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="单词手账" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <title>单词手账 · 英语三四六级 · 韩语初中高</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
